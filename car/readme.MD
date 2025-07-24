@@ -17,7 +17,7 @@ Sure, here's a more visually appealing and detailed version of your analysis, su
 | 선형 회귀          | 0.51    |
 | 엘라스틱넷         | 0.41    |
 
-\<br\>
+\<br>
 
 -----
 
@@ -51,7 +51,7 @@ Sure, here's a more visually appealing and detailed version of your analysis, su
   * **`company`**: 컬럼 내 데이터 종류가 매우 다양하여 원-핫 인코딩 적용 여부에 대한 고민이 많았습니다. 그러나 **원-핫 인코딩을 적용한 결과, 모델의 정확도가 무려 ✨0.1 이상 상승✨**하는 놀라운 효과를 보였습니다.
   * **`date_posted`**: 이 피처를 년, 월, 일로 분리하여 각각 원-핫 인코딩을 진행했습니다. 그 결과, 역시 **0.1 이상의 정확도 상승률**을 기록했습니다.
 
-\<br\>
+\<br>
 
 -----
 
